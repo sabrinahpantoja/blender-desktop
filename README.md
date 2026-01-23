@@ -1,5 +1,5 @@
-Blender
-=======
+![Blender](assets/blender_logo.png)
+
 
 Blender is a free and open-source 3D creation suite that supports the entire production pipeline — modeling, sculpting, animation, rigging, simulation, rendering, compositing, motion tracking, video editing, and game asset creation.
 
@@ -25,6 +25,9 @@ Quick Start
 1. Download the latest release archive.  
 2. Extract the archive to a folder  ofyour choice.  
 3. Install and launch Blender.
+
+
+![interface](assets/interface.png)
 
 License
 -------
